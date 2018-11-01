@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+main {
+    min-height: 100vh;
+    background-color: black;
+}
+
+figure.dance {
+    position: absolute;
+    margin: 0;
+    top: 15%;
+    width: 250px;
+    left: calc(50% - 125px);
+    text-align: center;
+}
+
+figure.dance h3 {
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #83b3d6;
+    font-size: 28px;
+}
